@@ -1,0 +1,23 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "my calculator",
+  "main": "calculatortest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narasimha-534/calculatorSelenium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Narasimha-534/calculatorSelenium/issues"
+  },
+  "homepage": "https://github.com/Narasimha-534/calculatorSelenium#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.21.0"
+  },
+  "devDependencies": {}
+}
